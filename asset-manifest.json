@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-two-cards-game-react/static/css/main.c1cefc56.css",
+    "main.js": "/find-two-cards-game-react/static/js/main.868e6cde.js",
+    "static/js/787.8bfaf174.chunk.js": "/find-two-cards-game-react/static/js/787.8bfaf174.chunk.js",
+    "index.html": "/find-two-cards-game-react/index.html",
+    "main.c1cefc56.css.map": "/find-two-cards-game-react/static/css/main.c1cefc56.css.map",
+    "main.868e6cde.js.map": "/find-two-cards-game-react/static/js/main.868e6cde.js.map",
+    "787.8bfaf174.chunk.js.map": "/find-two-cards-game-react/static/js/787.8bfaf174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1cefc56.css",
+    "static/js/main.868e6cde.js"
+  ]
+}
